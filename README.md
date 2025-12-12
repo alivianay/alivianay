@@ -2,4 +2,4 @@
 I'm **Livi**, a Data Science Student.  
 
 Interested in **AI and Machine Learning**.  
-Outside of school, I enjoy following the latest tech developments.
+Outside of college, I enjoy following the latest tech developments.
